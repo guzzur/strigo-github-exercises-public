@@ -1,0 +1,8 @@
+# Classes exercises configuration
+---
+classes:
+  - exercises:
+      - file: "../1.md"
+        title: "Exercise #1"
+      - file: "../2.md"
+        title: "Exercise #2"
