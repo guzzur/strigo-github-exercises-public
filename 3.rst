@@ -1,15 +1,15 @@
-.. code-block:: JSON
+.. code-block::
 
   {
     "key": "value"
   }
 
-.. code-block:: python
+.. code-block::
 
   pygments_style = 'sphinx'
 
 
-.. code-block:: ruby
+.. code-block::
 
   print "Hello, World!\n"
 
