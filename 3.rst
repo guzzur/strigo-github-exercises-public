@@ -1,19 +1,17 @@
-.. example-code::
+.. code-block:: JSON
 
-  .. code-block:: JSON
+  {
+    "key": "value"
+  }
 
-    {
-      "key": "value"
-    }
+.. code-block:: python
 
-  .. code-block:: python
-
-    pygments_style = 'sphinx'
+  pygments_style = 'sphinx'
 
 
-  .. code-block:: ruby
+.. code-block:: ruby
 
-    print "Hello, World!\n"
+  print "Hello, World!\n"
 
 
 
