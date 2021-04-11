@@ -19,5 +19,4 @@
   const y = 20;
   console.log(x + y);
 
-:: 
-    Literal block
+.. image:: ./img.jpg
