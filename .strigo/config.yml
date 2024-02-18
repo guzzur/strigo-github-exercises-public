@@ -1,6 +1,6 @@
 # Classes exercises configuration
 ---
-classes:
+classs:
   - exercises:
       - file: "../1.md"
         title: "Exercise #1"
